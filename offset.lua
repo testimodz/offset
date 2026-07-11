@@ -40,4 +40,5 @@ return {
   nodrop          = 35890428,
   cf_qloader1     = 36186240,
   cf_qloader2     = 36186296,
+  skip_anniv_ex   = 0x0213025c, -- NewWaveRoomData$$get_IsGameEnd
 }
